@@ -1,0 +1,4 @@
+﻿google-adk
+google-cloud-aiplatform
+streamlit
+python-dotenv
